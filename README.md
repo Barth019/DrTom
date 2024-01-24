@@ -1,2 +1,2 @@
 # Drpot
-A machine learning model for detecting diseases in potatoes 
+A machine learning model for detecting diseases in tomatoes 
